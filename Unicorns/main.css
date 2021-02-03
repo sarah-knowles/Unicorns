@@ -1,0 +1,22 @@
+body {
+	font-family: 'Rye', cursive;
+	background-color: rgb(253, 199, 207);
+}
+
+h1 {
+	margin-top: 100px;
+	margin-bottom: 50px;
+	font-size: 3.5em;
+	text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+.inflate-an-image{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    margin: 5px;
+}
